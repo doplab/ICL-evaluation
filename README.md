@@ -23,3 +23,11 @@ Each trajectory is made of a set of tuples composed of timestamps, latitudes and
 The training set contains the trajectories used to compute the most frequent locations of the participants.
 Beacons are placed at the top-6 most visited locations.
 These locations are stored in the `beacons-locations.csv` file. 
+
+## Citation
+
+If you use this data in your research, please cite the following paper:
+
+```
+Coming soon
+```
