@@ -9,7 +9,7 @@ While this approach reduces the cost of deploying and maintaining infrastructure
 
 Our main contribution is an optimized placement of beacons using a computationally efficient geospatial indexing technique, which relies on real-life data to compute the most frequent location of mobile phone users in a given environment. Our solution allows us to position the beacons at the most visited locations and to observe how they impact the location estimates of mobile devices.
 
-We demonstrate that our approach significantly decreases the density of beacons compared to other solutions proposed in the literature. With an optimized placement of beacons, we also improve the tracking accuracy compared to the standalone PDR algorithm. With only three beacons, in a test area of 8400 m^2, we achieve an accuracy increase of 9%, and up to 26% with six beacons.
+We demonstrate that our approach significantly decreases the density of beacons compared to other solutions proposed in the literature. With an optimized placement of beacons, we also improve the tracking accuracy compared to the standalone PDR algorithm. With only three beacons, in a test area of 8400 m<sup>2</sup>, we achieve an accuracy increase of 9%, and up to 26% with six beacons.
 
 ## Structure of the repository
 
